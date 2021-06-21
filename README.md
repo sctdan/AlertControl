@@ -16,7 +16,4 @@ Components:
 
 Here's the flow that's called to determine the state.  It takes two parameters, the Service name and the Customer name.  It will return a single boolean value.
 
-![AlertControlStateCheck](https://user-images.githubusercontent.com/49880736/122803926-41278080-d295-11eb-80b3-b1d53e8711f4.png)
-
-
-
+![screencapture-us-flow-microsoft-manage-environments-Default-57be6827-a78e-4992-a0f2-edd3e4226e8f-flows-c185eabb-2232-429b-93b6-6784c98f7a25-2021-06-21-15_15_17](https://user-images.githubusercontent.com/49880736/122815667-c1ed7900-d2a3-11eb-92bf-654668d28bc7.png)
