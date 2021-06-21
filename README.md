@@ -9,7 +9,13 @@ Components:
 4. Daily email notification displaying all services/customers that are disabled
 
 
-![image](https://user-images.githubusercontent.com/49880736/122790046-ecc8d480-d285-11eb-8984-18382e79da9c.png)![image](https://user-images.githubusercontent.com/49880736/122790277-27cb0800-d286-11eb-9fce-e6b79dcbd5b4.png)
-
+![image](https://user-images.githubusercontent.com/49880736/122790046-ecc8d480-d285-11eb-8984-18382e79da9c.png)
+![image](https://user-images.githubusercontent.com/49880736/122790277-27cb0800-d286-11eb-9fce-e6b79dcbd5b4.png)
 ![image](https://user-images.githubusercontent.com/49880736/122790509-606ae180-d286-11eb-9275-f0a8216dd8f4.png)
+
+
+Here's the flow that's called to determine the state.  It takes two parameters, the Service name and the Customer name.  It will return a single boolean value.
+
+![AlertControlStateCheck](https://user-images.githubusercontent.com/49880736/122803741-01609900-d295-11eb-8477-6a6145f86cd9.png)
+
 
