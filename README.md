@@ -11,4 +11,4 @@ Components:
 
 ![image](https://user-images.githubusercontent.com/49880736/122790277-27cb0800-d286-11eb-9fce-e6b79dcbd5b4.png)
 
-![image](https://user-images.githubusercontent.com/49880736/122790375-429d7c80-d286-11eb-9535-3f05da55b0c4.png)
+![image](https://user-images.githubusercontent.com/49880736/122790509-606ae180-d286-11eb-9275-f0a8216dd8f4.png)
