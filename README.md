@@ -1,6 +1,6 @@
 # AlertControl
 
-AlertControl is a utility created to easily enable or disable alerting by service or customer.  This prevents tickets from being opened, as well as silencing any push alerts.
+AlertControl is a powerapp created to easily enable or disable alerting by service or customer.  This prevents tickets from being opened, as well as silencing any push alerts.
 
 Components:
 1. SharePoint List containing the name of each service, on/off column, along with a logo
